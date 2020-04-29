@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <name>Sally Whittaker</name>
+    <class>2018</class>
+    <dorm>McCarren House</dorm>
+    <room>312</room>
+    <GPA>3.75</GPA>
+  </row>
+  <row>
+    <name>Belinda Jameson</name>
+    <class>2017</class>
+    <dorm>Cushing House</dorm>
+    <room>148</room>
+    <GPA>3.52</GPA>
+  </row>
+  <row>
+    <name>Jeff Smith</name>
+    <class>2018</class>
+    <dorm>Prescott House</dorm>
+    <room>17-D</room>
+    <GPA>3.20</GPA>
+  </row>
+  <row>
+    <name>Sandy Allen</name>
+    <class>2019</class>
+    <dorm>Oliver House</dorm>
+    <room>108</room>
+    <GPA>3.48</GPA>
+  </row>
+</root>

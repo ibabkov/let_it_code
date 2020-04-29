@@ -23,7 +23,7 @@ const isFullMatch = function(string, pattern) {
  * @param string
  * @param pattern
  * @param newString
- * @returns {string[] | null}
+ * @returns {string}
  */
 const replace = function(string, pattern, newString) {
   return string.replace(new RegExp(pattern, 'gm'), newString)
