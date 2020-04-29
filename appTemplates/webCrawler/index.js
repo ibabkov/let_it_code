@@ -21,7 +21,6 @@ const getItem = ($, item) => {
   };
 };
 
-
 /**
  * @param {string} url
  * @returns {Promise<any>}

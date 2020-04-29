@@ -41,6 +41,35 @@ Requirements: Node.js v. 14.0.0
 
 ## Pending:
 
+* Array
+  *   [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  *   [136. Single Number](https://leetcode.com/problems/single-number/)
+  *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
+  *   [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  *   [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+  *   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  *   [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  *   [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+  
+  *   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  *   [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  *   [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  *   [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+  *   [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/)
+  *   [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
+  *   [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  *   [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  *   [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+  *   [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  *   [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+  *   [https://leetcode.com/problems/word-search/](https://leetcode.com/problems/word-search/)
+  
+* Math
+
+  *   []()
+  
 * Stack and Queue
 
   *   [155. Min Stack](https://leetcode.com/problems/min-stack/)
