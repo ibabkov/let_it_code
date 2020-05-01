@@ -36,7 +36,10 @@ Requirements: Node.js v. 14.0.0
 * Linked list
 
   *   [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+  
+* Union Find
 
+  *   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 
 ## Pending:
