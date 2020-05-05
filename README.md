@@ -12,6 +12,7 @@ Requirements: Node.js v. 14.0.0
   *   [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
   *   [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)  
   *   [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
+  *   [1. Two Sum](https://leetcode.com/problems/two-sum/)  
   
 * String
 
@@ -41,7 +42,7 @@ Requirements: Node.js v. 14.0.0
 
   *   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
   *   [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-  *   [547. Friend Circles](https://leetcode.com/problems/longest-consecutive-sequence/)
+  *   [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
 
 
 ## Pending:
