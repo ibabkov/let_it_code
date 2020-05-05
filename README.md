@@ -13,6 +13,7 @@ Requirements: Node.js v. 14.0.0
   *   [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)  
   *   [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
   *   [1. Two Sum](https://leetcode.com/problems/two-sum/)  
+  *   [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
   
 * String
 
