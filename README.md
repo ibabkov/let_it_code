@@ -41,6 +41,7 @@ Requirements: Node.js v. 14.0.0
 
   *   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
   *   [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  *   [547. Friend Circles](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 
 ## Pending:
