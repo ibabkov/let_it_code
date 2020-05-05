@@ -20,6 +20,7 @@ Requirements: Node.js v. 14.0.0
   *   [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
   *   [344. Reverse String](https://leetcode.com/problems/reverse-string/) 
   *   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  
+  *   [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
   
 * Hash
 
