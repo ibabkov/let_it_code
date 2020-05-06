@@ -14,7 +14,9 @@ Requirements: Node.js v. 14.0.0
   *   [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
   *   [1. Two Sum](https://leetcode.com/problems/two-sum/)  
   *   [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
-  *   [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/§)
+  *   [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  *   [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+  *   [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   
 * String
 
