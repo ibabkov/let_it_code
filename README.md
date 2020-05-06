@@ -70,9 +70,7 @@ Requirements: Node.js v. 14.0.0
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
   *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
   *   [198. House Robber](https://leetcode.com/problems/house-robber/)
-
-*
-
+  *
   *   [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
   *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
@@ -83,9 +81,7 @@ Requirements: Node.js v. 14.0.0
   *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   *   [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
   *   [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-  
-*
-
+  *
   *   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   *   [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
   *   [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -124,9 +120,7 @@ Requirements: Node.js v. 14.0.0
 * Stack and Queue
 
   *   [716. Max Stack](https://leetcode.com/problems/max-stack/)
-  
-*
-  
+  *
   *   [155. Min Stack](https://leetcode.com/problems/min-stack/)
   *   [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
   *   [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
@@ -158,9 +152,7 @@ Requirements: Node.js v. 14.0.0
 * Union Find
 
   *   [_](_)
-
-*
-
+  *
   *   [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
   *   [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
   *   [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)
@@ -169,10 +161,8 @@ Requirements: Node.js v. 14.0.0
 * Graph
 
   *   [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
-  
-*
-
-  *   [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+  *
+  *    [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   *   [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
   *   [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   *   [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
