@@ -17,6 +17,7 @@ Requirements: Node.js v. 14.0.0
   *   [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   *   [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
   *   [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  *   [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   
 * String
 
@@ -65,7 +66,6 @@ Requirements: Node.js v. 14.0.0
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   *   [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
-  *   [937. Reorder Data in Log Files](https://leetcode.com/problems/merge-sorted-array/)
   *   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
   *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
