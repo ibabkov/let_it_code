@@ -43,6 +43,7 @@ Requirements: Node.js v. 14.0.0
 * Linked list
 
   *   [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+  *   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   
 * Union Find
 
@@ -133,7 +134,6 @@ Requirements: Node.js v. 14.0.0
 
   *   [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   *   [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-  *   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   *   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
   *   [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
