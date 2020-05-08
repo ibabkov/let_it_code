@@ -26,7 +26,8 @@ Requirements: Node.js v. 14.0.0
   *   [344. Reverse String](https://leetcode.com/problems/reverse-string/) 
   *   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  
   *   [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
-  
+  *   [443. String Compression§](https://leetcode.com/problems/string-compression/)
+
 * Hash
 
   *   [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
@@ -144,7 +145,6 @@ Requirements: Node.js v. 14.0.0
   *   [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
   *   [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
   *   [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-  *   [443. String Compression](https://leetcode.com/problems/string-compression/)
   *   [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   *   [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   *   [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
