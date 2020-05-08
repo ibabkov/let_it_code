@@ -21,6 +21,7 @@ Requirements: Node.js v. 14.0.0
   *   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   *   [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   *   [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  *   [1086. High Five](https://leetcode.com/problems/high-five/)
   
 * String
 
@@ -59,7 +60,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [1086. High Five](https://leetcode.com/problems/high-five/)
   *   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   *   [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
   *   [256. Paint House](https://leetcode.com/problems/paint-house/)
