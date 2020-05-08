@@ -19,6 +19,8 @@ Requirements: Node.js v. 14.0.0
   *   [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   *   [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   *   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  *   [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  
 * String
 
   *   [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
