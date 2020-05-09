@@ -36,6 +36,7 @@ Requirements: Node.js v. 14.0.0
   *   [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
   *   [443. String Compression§](https://leetcode.com/problems/string-compression/)
   *   [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+  *   [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 * Hash
 
@@ -143,7 +144,6 @@ Requirements: Node.js v. 14.0.0
 
 * String
 
-  *   [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
   *   [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
   *   [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
   *   [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
