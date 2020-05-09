@@ -142,7 +142,6 @@ Requirements: Node.js v. 14.0.0
 
 * String
 
-  *   [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
   *   [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   *   [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
   *   [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
