@@ -22,7 +22,10 @@ Requirements: Node.js v. 14.0.0
   *   [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   *   [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   *   [1086. High Five](https://leetcode.com/problems/high-five/)
-  
+  *   [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  *   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  *   [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
 * String
 
   *   [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
@@ -60,7 +63,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   *   [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
   *   [256. Paint House](https://leetcode.com/problems/paint-house/)
   *   [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
@@ -68,7 +70,6 @@ Requirements: Node.js v. 14.0.0
   *   [169. Majority Element](https://leetcode.com/problems/majority-element/)
   *   [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
-  *   [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
   *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
