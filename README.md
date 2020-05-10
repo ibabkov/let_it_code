@@ -56,6 +56,10 @@ Requirements: Node.js v. 14.0.0
 
   *   [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
+* Stack and Queue
+
+  *   [716. Max Stack](https://leetcode.com/problems/max-stack/)
+  
 * Linked list
 
   *   [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
@@ -130,7 +134,7 @@ Requirements: Node.js v. 14.0.0
   
 * Stack and Queue
 
-  *   [716. Max Stack](https://leetcode.com/problems/max-stack/)
+  *   [_](_)
   *
   *   [155. Min Stack](https://leetcode.com/problems/min-stack/)
   *   [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
