@@ -40,6 +40,7 @@ Requirements: Node.js v. 14.0.0
   *   [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
   *   [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
   *   [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  *   [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 * Hash
 
@@ -147,7 +148,6 @@ Requirements: Node.js v. 14.0.0
 
 * String
 
-  *   [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   *   [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
   
 * Union Find
