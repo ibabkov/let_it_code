@@ -64,6 +64,7 @@ Requirements: Node.js v. 14.0.0
 
   *   [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
   *   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  *   [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
   
 * Union Find
 
