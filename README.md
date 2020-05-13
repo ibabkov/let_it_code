@@ -30,6 +30,7 @@ Requirements: Node.js v. 14.0.0
   *   [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
   *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
   *   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
+  *   [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
 * String
 
@@ -80,7 +81,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [169. Majority Element](https://leetcode.com/problems/majority-element/)
   *   [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
