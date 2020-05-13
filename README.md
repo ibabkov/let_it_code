@@ -26,7 +26,8 @@ Requirements: Node.js v. 14.0.0
   *   [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   *   [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
   *   [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
-
+  *   [256. Paint House](https://leetcode.com/problems/paint-house/)
+    
 * String
 
   *   [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
@@ -76,7 +77,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [256. Paint House](https://leetcode.com/problems/paint-house/)
   *   [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
   *   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
   *   [169. Majority Element](https://leetcode.com/problems/majority-element/)
