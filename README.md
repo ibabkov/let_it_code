@@ -34,6 +34,7 @@ Requirements: Node.js v. 14.0.0
   *   [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
+  *   [136. Single Number](https://leetcode.com/problems/single-number/)
 
 * String
 
@@ -84,7 +85,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [136. Single Number](https://leetcode.com/problems/single-number/)
   *   [198. House Robber](https://leetcode.com/problems/house-robber/)
   *
   *   [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
