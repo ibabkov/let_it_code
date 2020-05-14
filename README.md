@@ -33,6 +33,7 @@ Requirements: Node.js v. 14.0.0
   *   [169. Majority Element](https://leetcode.com/problems/majority-element/)
   *   [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+  *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
 
 * String
 
@@ -83,7 +84,6 @@ Requirements: Node.js v. 14.0.0
 ## Pending:
 
 * Array
-  *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
   *   [198. House Robber](https://leetcode.com/problems/house-robber/)
   *
@@ -169,7 +169,7 @@ Requirements: Node.js v. 14.0.0
 
   *   [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
   *
-  *    [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+  *   [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   *   [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
   *   [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   *   [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
