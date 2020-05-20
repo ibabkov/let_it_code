@@ -51,6 +51,7 @@ Requirements: Node.js v. 14.0.0
   *   [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   *   [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   *   [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+  *   [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 * Hash
 
@@ -60,6 +61,16 @@ Requirements: Node.js v. 14.0.0
 * Math
 
   *   [509. Fibonacci Number](https://leetcode.com/problems/design-hashset/)
+  *   [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+  *   [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+  *   [415. Add Strings](https://leetcode.com/problems/add-strings/)
+  *   [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+  *   [202. Happy Number](https://leetcode.com/problems/happy-number/)
+  *   [67. Add Binary](https://leetcode.com/problems/add-binary/)
+  *   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  *   [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  *   [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+  *   [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 * Tree
 
@@ -114,17 +125,8 @@ Requirements: Node.js v. 14.0.0
   
 * Math
 
-  *   [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
-  *   [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-  *   [415. Add Strings](https://leetcode.com/problems/add-strings/)
-  *   [202. Happy Number](https://leetcode.com/problems/happy-number/)
-  *   [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-  *   [67. Add Binary](https://leetcode.com/problems/add-binary/)
-  *   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-  *   [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-  *   [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-  *   [38. Count and Say](https://leetcode.com/problems/count-and-say/)
-  
+   *   [_](_)
+   
 * Tree
 
   *   [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
