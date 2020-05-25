@@ -121,7 +121,13 @@ Requirements: Node.js v. 14.0.0
 
   *   [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
   *   [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+  
+* FRONTEND
 
+  *   Create rhomb using html and css
+  *   Create semicircle using html and css
+  *   Create triangle using html and css
+  
 ## Pending:
 
 * Array

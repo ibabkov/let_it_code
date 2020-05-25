@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    Create rhomb using html and css only
+  -->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 10px;
+    }
+    .rhomb {
+      width: 100px;
+      height: 160px;
+      overflow: hidden;
+    }
+    .rhomb::before, .rhomb::after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 100%;
+      box-sizing: border-box;
+      border: 50px solid transparent;
+      transform: translateY(-50%);
+    }
+    .rhomb::before {
+      border-bottom: 80px solid #121212;
+    }
+    .rhomb::after {
+      border-top: 80px solid #121212;
+
+    }
+  </style>
+</head>
+<body>
+<div class="rhomb">
+</div>
+</body>
+</html>
