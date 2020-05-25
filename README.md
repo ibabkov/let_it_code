@@ -35,6 +35,12 @@ Requirements: Node.js v. 14.0.0
   *   [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   *   [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
   *   [136. Single Number](https://leetcode.com/problems/single-number/)
+  *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  *   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  *   [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  *   [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+  *   [198. House Robber](https://leetcode.com/problems/house-robber/)
+  *   [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 
 * String
 
@@ -51,7 +57,6 @@ Requirements: Node.js v. 14.0.0
   *   [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   *   [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   *   [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
-  *   [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 * Hash
 
@@ -75,114 +80,155 @@ Requirements: Node.js v. 14.0.0
 * Tree
 
   *   [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  *   [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+  *   [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+  *   [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+  *   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+  *   [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+  *   [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  *   [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 * Stack and Queue
 
+  *   [155. Min Stack](https://leetcode.com/problems/min-stack/)
   *   [716. Max Stack](https://leetcode.com/problems/max-stack/)
-  
+  *   [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+  *   [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+  *   [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+
 * Linked list
 
   *   [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
   *   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   *   [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-  
+  *   [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  *   [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  *   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+  *   [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
 * Union Find
 
   *   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
   *   [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
   *   [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
 
+* Graph
+
+  *   [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
+  *   [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+* SQL
+
+  *   [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+  *   [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 
 ## Pending:
 
 * Array
-  *   [198. House Robber](https://leetcode.com/problems/house-robber/)
-  *
+  *   [_](_)
+
+  *   [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   *   [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-  *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-  *   [136. Single Number](https://leetcode.com/problems/single-number/)
-  *   [268. Missing Number](https://leetcode.com/problems/missing-number/)
-  *   [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-  *   [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
-  *   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-  *   [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-  *   [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
-  *   [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-  *
   *   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   *   [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
   *   [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   *   [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
   *   [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/)
   *   [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
-  *   [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
   *   [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-  *   [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
   *   [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
   *   [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
   *   [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
   *   [79. Word Search](https://leetcode.com/problems/word-search/)
+  *   [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+  *   [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+  *   [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+  *   [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+  *   [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  *   [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  *   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  *   [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  *   [46. Permutations](https://leetcode.com/problems/permutations/)
   
 * Math
 
-   *   [_](_)
+  *   [_](_)
+  *   
+  *   [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  *   [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  *   [15. 3Sum](https://leetcode.com/problems/3sum/)
+  *   [322. Coin Change](https://leetcode.com/problems/coin-change/)
+  *   [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
    
 * Tree
-
-  *   [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-  *   [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
-  *   [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-  *   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-  *   [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
   
-* Stack and Queue
-
   *   [_](_)
   *
-  *   [155. Min Stack](https://leetcode.com/problems/min-stack/)
-  *   [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
-  *   [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-  *   [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
-  *   [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
-  *   [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-  *   [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+  *   [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 * Linked list
 
-  *   [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-  *   [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-  *   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-  *   [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+  *   [_](_)
 
 * String
 
   *   [_](_)
-  
+  *
+  *   [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  *   [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  *   [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+  *   [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+  *   [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  *   [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+  *   [139. Word Break](https://leetcode.com/problems/word-break/)
+  *   [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+  *   [79. Word Search](https://leetcode.com/problems/word-search/)
+
 * Union Find
 
   *   [_](_)
   *
   *   [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
-  *   [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
   *   [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)
   *   [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
   
 * Graph
 
-  *   [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
+  *    [_](_)
   *
+  *   [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
   *   [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
-  *   [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
   *   [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   *   [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
   *   [1036. Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)
   *   [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
   *   [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
-  *   [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-  *   [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   *   [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
+  *   [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  *   [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+  
+* Stack and Queue
+
+  *   [_](_)
+  *
+  *   [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+  *   [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+  *   [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+  *   [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+  *    [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+* Backtracking
+
+  *   [_](_)
+  *
+  *   [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  *   [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
   
 * SQL
 
-  *   [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
-  *   [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+  *    [_](_)
+  
+* FRONTEND
+
+  *   [_](_)
+ 
