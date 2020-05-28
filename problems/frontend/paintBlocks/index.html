@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    Given 3 blocks that are nested in each other. Write code that handles clicks and paints block into gray color.
+  -->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 10px;
+    }
+    .block {
+      padding: 50px;
+    }
+    .red {
+      background-color: red;
+    }
+    .green {
+      background-color: green;
+    }
+    .blue {
+      background-color: blue;
+    }
+    .gray {
+      background-color: gray;
+    }
+  </style>
+  <script src="main.js"></script>
+</head>
+<body>
+<div class="block red">
+  <div class="block green">
+    <div class="block blue">
+    </div>
+  </div>
+</div>
+</body>
+<script>
+  (() => {
+    const main = new Main();
+    main.addPaintListener();
+  })();
+</script>
+</html>

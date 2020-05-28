@@ -79,6 +79,7 @@ Requirements: Node.js v. 14.0.0
 
 * Tree
 
+  *   [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
   *   [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   *   [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
   *   [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)

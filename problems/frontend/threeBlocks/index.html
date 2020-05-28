@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    Given 3 blocks that in the container block. Container block has width of 60px and his items have width of 20px and border. Place all the nested block in a row.
+  -->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 10px;
+    }
+    .layout1 {
+      width: 60px;
+    }
+
+    .layout1 > .block {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      box-sizing: border-box;
+      border: 1px solid black;
+    }
+
+
+    .layout2 {
+      width: 60px;
+      font-size: 0;
+    }
+
+    .layout2 > .block {
+      display: inline-block;
+      font-size: 1rem;
+      width: 20px;
+      height: 20px;
+      box-sizing: border-box;
+      border: 1px solid black;
+    }
+
+
+    .layout3 {
+      display: flex;
+    }
+
+    .layout3 > .block {
+      width: 20px;
+      height: 20px;
+      box-sizing: border-box;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+<div class='layout1'>
+  <div class='block'></div><div class='block'></div><div class='block'></div>
+</div>
+
+<div class='layout2'>
+  <div class='block'></div>
+  <div class='block'></div>
+  <div class='block'></div>
+</div>
+
+<div class='layout3'>
+  <div class='block'></div>
+  <div class='block'></div>
+  <div class='block'></div>
+</div>
+<div class='layout4'>
+  <div class='block'></div>
+</div>
+</body>
+</html>
